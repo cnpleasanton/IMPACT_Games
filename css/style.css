@@ -32,7 +32,7 @@ body {
 	color: #999;	/*全体の文字色*/
 	font-family: "M PLUS Rounded 1c", "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	line-height: 2;		/*行間*/
-	background: #388fbf;	/*背景色*/
+	background: #a9d1ec;	/*背景色*/
 	-webkit-text-size-adjust: none;
 	overflow-x: hidden;
 }
