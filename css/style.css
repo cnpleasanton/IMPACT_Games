@@ -54,8 +54,8 @@ padding: 0 ;
 nav ul li{
 list-style: none;
 display: inline-block;
-width: 13%;
-min-width: 50px;
+width: 18%;
+min-width: 90px;
 }
 nav ul li a{
 text-decoration: none;
