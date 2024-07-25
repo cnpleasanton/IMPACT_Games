@@ -97,6 +97,13 @@ header {
 	width: 100%;
 	height: 100px;	/*高さ*/
 }
+
+header_belt {
+	position: relative;
+	width: 100%;
+	height: 80px;	/*高さ*/
+}
+
 /*ヘッダーブロック（※トップページへの追加設定）*/
 .home header {
 	height: auto;	/*高さを自動に*/
